@@ -1,0 +1,11 @@
+form {
+    background: #55acf3;
+    padding: 1.5em;
+    border-radius: 1em;
+}
+
+.center {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
